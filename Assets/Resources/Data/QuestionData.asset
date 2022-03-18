@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd6562de26c4795489d79799abe770a4, type: 3}
+  m_Name: QuestionData
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 21300000, guid: 013107babdaf34235ace071cbd2bc185, type: 3}
+    answer: chilli
+  - questionImage: {fileID: 21300000, guid: 1f029c82b371842d783fefa4baff2449, type: 3}
+    answer: chinesekale
+  - questionImage: {fileID: 21300000, guid: a038e3b48d7474ca3810a24db985e3db, type: 3}
+    answer: holybasil
+  - questionImage: {fileID: 21300000, guid: 3125acda77abf4733855288d4518fbf0, type: 3}
+    answer: napacabbage
+  - questionImage: {fileID: 21300000, guid: c684e84553e6e4f4789e30930f4113b0, type: 3}
+    answer: galangal
+  - questionImage: {fileID: 21300000, guid: 0eebac798d2134e60bfb92a442119754, type: 3}
+    answer: coriander

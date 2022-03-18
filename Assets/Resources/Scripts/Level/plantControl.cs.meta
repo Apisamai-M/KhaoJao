@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 76b7387561cf647b69eaea361e6244a3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - plot: {instanceID: 0}
+  - waterPlot: {instanceID: 0}
+  - noPlantObj: {instanceID: 0}
+  - seed: {fileID: -1689256694599894916, guid: d1247052cd0114f3da7e535a091b13a2, type: 3}
+  - sprout: {fileID: 9107188667233024688, guid: d1247052cd0114f3da7e535a091b13a2, type: 3}
+  - growth: {fileID: -7331970445935458416, guid: d1247052cd0114f3da7e535a091b13a2, type: 3}
+  - flower: {fileID: -1278220172223494215, guid: d1247052cd0114f3da7e535a091b13a2, type: 3}
+  - harvest: {fileID: 6621264232340020781, guid: d1247052cd0114f3da7e535a091b13a2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

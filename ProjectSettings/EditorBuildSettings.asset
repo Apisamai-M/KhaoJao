@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Resources/Scenes/Menu.unity
+    guid: 2617195f84a5dc74899ad3a4d0eab273
+  - enabled: 1
+    path: Assets/Resources/Scenes/LevelManager.unity
+    guid: 3157652d088d945d29bf25275cf0f412
+  - enabled: 1
+    path: Assets/Resources/Scenes/level1/Level1Instruction.unity
+    guid: 4c1c0581097604dde88ecc0ae14d35ee
+  - enabled: 1
+    path: Assets/Resources/Scenes/level1/Level1InstructionDetail.unity
+    guid: 3d671e104d2ca4d589bdd46686db2187
+  - enabled: 1
+    path: Assets/Resources/Scenes/level1/ShopWindow.unity
+    guid: 4af74a1ca5d504523b390ee8a80511b2
+  - enabled: 1
+    path: Assets/Resources/Scenes/level1/Level1.unity
+    guid: 7049de339aa9f4703af344159126dc7a
+  - enabled: 1
+    path: Assets/Resources/Scenes/level2/Level2Instruction.unity
+    guid: a56adaa7e303a4dbaa885e70d9e7e3ee
+  - enabled: 1
+    path: Assets/Resources/Scenes/level2/Level2InstructionDetail.unity
+    guid: f6aeb6bd51d054c2aa452b13236a31fa
+  - enabled: 1
+    path: Assets/Resources/Scenes/level2/ShopWindowLevel2.unity
+    guid: b509aa2dfad2c4428b704d51a12d8397
+  - enabled: 1
+    path: Assets/Resources/Scenes/level2/Level2.unity
+    guid: 0e22a2c8bee5946868c561def80a8431
+  - enabled: 1
+    path: Assets/Resources/Scenes/level3/Level3Instruction.unity
+    guid: ab4df8485c9994738be1ca3e4229c004
+  - enabled: 1
+    path: Assets/Resources/Scenes/level3/Level3InstructionDetail.unity
+    guid: f798977694ee74148bb18472fd63f5ff
+  - enabled: 1
+    path: Assets/Resources/Scenes/level3/ShopWindowLevel3.unity
+    guid: 653cf04d7b5044e9087b0cdf99ba0bbc
+  - enabled: 1
+    path: Assets/Resources/Scenes/level3/Level3.unity
+    guid: 3cef7faafbf5f47638f1e887f087da6d
+  - enabled: 1
+    path: Assets/Resources/Scenes/level4/Level4Instruction.unity
+    guid: 1e6751bf2d0a7459790004530f50d39f
+  - enabled: 1
+    path: Assets/Resources/Scenes/level4/Level4InstructionDetail.unity
+    guid: 77b3e0c2d26c341d5ac1ae7be32eaefe
+  - enabled: 1
+    path: Assets/Resources/Scenes/level4/ShopWindowLevel4.unity
+    guid: 7def1f9d7cc9a4ec69cf30bdfb4a3bce
+  - enabled: 1
+    path: Assets/Resources/Scenes/level4/Level4.unity
+    guid: 8a90fcfa7a7514d28b40d021a7efee6b
+  - enabled: 1
+    path: Assets/Resources/Scenes/level5/Level5Instruction.unity
+    guid: be4934ac5b0cd4a388b8114bfc95c44e
+  - enabled: 1
+    path: Assets/Resources/Scenes/level5/Level5InstructionDetail.unity
+    guid: 51d3e0172bbfd41b79403333dd4ee44a
+  - enabled: 1
+    path: Assets/Resources/Scenes/level5/ShopWindowLevel5.unity
+    guid: e503a8efb42854915b90159ef7c43c8f
+  - enabled: 1
+    path: Assets/Resources/Scenes/level5/Level5.unity
+    guid: 8930073853929463b98765ecdd4b0413
+  - enabled: 1
+    path: Assets/Resources/Scenes/MiniGame/MiniGame.unity
+    guid: 50818e39beccc4321b928d2180b11b18
+  - enabled: 1
+    path: Assets/Resources/Scenes/MiniGame/MiniGame3.unity
+    guid: d488d6c4dd9610d43a14c4434a2e6b41
+  - enabled: 1
+    path: Assets/Resources/Scenes/MiniGame/MiniGame2.unity
+    guid: 007ce4f47c20ba448a7f207f51ad1c3f
+  - enabled: 1
+    path: Assets/Resources/Scenes/Setting.unity
+    guid: d2c8a91f6d2fb4530af12695785083a8
+  - enabled: 1
+    path: Assets/Resources/Scenes/Endcredit.unity
+    guid: 2522a255959a9714fb4f9c79afed769e
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: f7b9a515519e24b93b5889ce167bcf8d, type: 2}

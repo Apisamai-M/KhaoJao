@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 3087f334d282f4336b8fa753f330111e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Bark: {fileID: 8300000, guid: 4353c0b7245904b06a8de1111c95559f, type: 3}
+  - Whimper: {fileID: 8300000, guid: 77ea54b61271d48c7a6fd668cf18275c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
